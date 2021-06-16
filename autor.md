@@ -12,7 +12,7 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 - [X] Soma Vizinhos
 - [X] Intervalos
 - [X] Fibonacci
-- [ ] Minmax
+- [X] Minmax
 - [ ] Inverter
 - [ ] Filtragem
 - [ ] Ponto em Retângulo 1
