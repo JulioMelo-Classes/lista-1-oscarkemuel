@@ -11,9 +11,12 @@
  */
 #include <array>
 
+/*
+blz
+*/
 std::pair<int,int> min_max( int V[], size_t n ){
     // Deve ser dessa forma que verifica o Empty array?
-    if(!n) return std::pair<int,int>{-1, -1};
+    if(!n) return std::pair<int,int>{-1, -1}; /*embora funcione usar !n dá impressão que n é booleano*/
 
     int min = V[0], max = V[0];
     int index1 = 0, index2 = 0;

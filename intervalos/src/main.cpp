@@ -16,7 +16,9 @@ using std::setprecision;
 float getPercentage(float num, float total){
   return (100 * num) / total;;
 }
-
+/*
+ok, essa função aí era realmente desncessária =)
+*/
 int main(void){
     // TODO: Adicione aqui a sua solução.
     std::vector<int> numbers;

@@ -9,6 +9,9 @@ using std::cout;
 using std::cin;
 using std::endl;
 
+/*
+blz
+*/
 int main( void ){
     // TODO: Adicione seu código aqui.
     int m, n;
@@ -17,7 +20,7 @@ int main( void ){
       int aux = m;
       for (int i = 0; i < fabs(n); i++){
         sum += aux;
-        n >= 0 ? aux++ : aux--;
+        n >= 0 ? aux++ : aux--; //boa ideia!
       }
       if(n == 0) sum = m;
       std::cout << sum << endl;

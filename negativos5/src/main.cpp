@@ -4,6 +4,9 @@ using std::cout;
 
 const int SIZE = 5; // input size.
 
+/*
+ok
+*/
 int main(void){
     // TODO: Adicione aqui seu código.
     int num = 0;
